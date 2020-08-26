@@ -68,12 +68,28 @@ When people talk about nuclear energy, there is always a bliss of anxiety going 
 
 ## Scene three
 
-There seems to exist a thick layer of ice between most people and nuclear energy causing some misunderstandings. What is nuclear energy? Is nuclear power plant safe? In this series of videos, I am gonna explained some common facts about nuclear power plant, well, in a simple way. 
+There seems to exist a thick layer of ice between most people and nuclear energy causing some misunderstandings. 
+What is nuclear energy? Is nuclear power plant safe?
+In this series of videos, I am gonna explained some common facts about nuclear power plant, well, in a simple way. 
 
 ## Scene four
 
-A nuclear power plant is a sophisticated system, no one can doubt that. But put it in the easiest way, a nuclear power plant is like nothing but heating coolant medium in one or several closed systems. Take light water reactor for example, the coolant, aka. water, absorbs heat from nuclear fuel and then releases it through driving a big turbine which is connected to the generator producing electricity. The coal power plant has the same princiExcept for the nuclear fuel part, the principle of producing electricity in the NPP is quite similar to the coal power plant, but just cleaner, in the sense of CO2 and SO2 emission.
+No doubt that a nuclear power plant is a sophisticated system. 
+It combines the efforts of hunderds of experts, physists & mechanical engineers & eletronic engineers & chemists to run a single unit. 
 
 ## Scene five
+But put it in the easiest way, a nuclear power plant is like nothing but heating coolant medium in one or several closed systems. 
 
-Since 50s last century, various
+## Scene six
+Take light water reactor for example, the coolant, aka. water, absorbs heat from nuclear fuel and then releases it through driving a big turbine which is connected to the generator producing electricity. 
+Except for the nuclear fuel part, the coal power plant works with the same mechanism. 
+But nuclear power plant is just cleaner, in the sense of CO2 and SO2 emission.
+
+## Scene seven
+
+Since 1950s, various types of reactors have been built, deployed or designed.
+If we try to group them by purposes, there are commercial reactors for electricity production, research reactors, propulsion reactors for like space ships and submarines. 
+If we try to group them by the coolant medium, we will see light water, heavy water, sodium, lead-bismuth, molten salt, etc.
+Of course we can also distinguish them with respect to different fuel shape: cylinderic pellet, plate, ball or even in a fluid form flowing around thus without any shape.
+
+## Scene eight

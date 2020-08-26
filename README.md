@@ -18,7 +18,9 @@ Reactor Series is about introducing basic reactor knowledge of nuclear reactor t
 Manuscript being written.
 
 ## Tools
+Momentarily the idea is to film with keynote, audio with garageBand, video editing with iMovies.
 
+The ultimate tool would be then Adobe After Effect for special effects, Premiere for video editing, audio can still be recorded with garageBand.
 
 ---
 Contact:

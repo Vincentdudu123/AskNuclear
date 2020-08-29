@@ -81,7 +81,7 @@ source: IEA
 
 (convert from a graph to a animation?)
 
-Over the years the nuclear energy industries experience different situations in different contries. Like Germany, Swissland have decided to phase out nuclear energy while contries like China, south Korea, England are still involved in building new reactors. 
+Over the years the nuclear energy industries experience different situations in different countries. Like Germany, Swissland have decided to phase out nuclear energy while countries like China, south Korea, England are still involved in building new reactors. 
 
 ## Scene five
 What are nuclear reactors?
@@ -91,7 +91,7 @@ No doubt that a nuclear power plant is a sophisticated system.
 It combines the efforts of hunderds of experts, physists & mechanical engineers & electrical engineers & chemists to run a single unit. 
 
 ## Scene seven
-But put it in the easiest way, a nuclear power plant is like nothing but heating coolant medium in one or several closed systems. 
+But put it in the easiest way, a nuclear power plant is like nothing but heating/boiling coolant medium in one or several closed systems. 
 
 ## Scene eight
 
@@ -103,6 +103,8 @@ But nuclear power plant is just cleaner, in the sense of CO2 and SO2 emission.
 
 Since 1950s, various types of reactors have been built, deployed or designed.
 
+Depending on the reaction type, there are fission reactors utilizing the energy by splitting heavy atoms into lighter ones. There are also fusion reactors in which extremes light atoms are 
+
 If we try to group them by purposes, there are commercial reactors for electricity production, research reactors conducting different researches, propulsion reactors offering driving force for like space ships and submarines. 
 
 If we try to group them by the coolant medium, we will see light water, heavy water, gas, sodium, lead-bismuth, molten salt, etc.
@@ -112,4 +114,12 @@ Of course we can also distinguish them with respect to different fuel shape: cyl
 
 ## Scene ten
 
-Among all the current operating nuclear reactors the so-called pressurized water reactor takes the biggest share. 
+Let's take a deeper look at one specific reactor type. Among all the current operating nuclear reactors the biggest share is the so-called pressurized water reactor, aka. PWR. Think the PWR as a simple 2-loop power transmission system, or some strange two-chain bicycle. You are playing as the nuclear fuel cycling the pedales. The first chain is driven through the first gear and going forwards. Then the second chain get the toque from the second gear and moves the wheel to rotate. Hmmm, there is something that I missed, the big cooling tower! Well it's more like a cooling system for the second chain since the wheel can only take around one third of the energy from the chain and it needs to be cooled down all the time to remain under working condition. 
+
+There is another type of nuclear reactor running with light water which is called boiling water reactor, aka. BWR. The BWRs are more like a normal bycycle, with only one chain of course. This type of reactor is more like the coal
+
+As I mentioned before, the current efficiency of a PWR is around 33%, which means only around 33% of the energy generated in the nuclear fuel is converted to electricity. Where does the other 66% go? You may already have the answer, yes, most of them will be emitted through the cooling tower, in a form of giant white water cloud.
+
+## Scene eleven
+
+If you have more questions or suggestions, don't hesitate to leave a comment. And if you would like to learn more knowledge of a cool shining nuclear reactor, don't forget to subscribe. Merci.

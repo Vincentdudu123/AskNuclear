@@ -74,22 +74,42 @@ In this series of videos, I am gonna explained some common facts about nuclear p
 
 ## Scene four
 
-No doubt that a nuclear power plant is a sophisticated system. 
-It combines the efforts of hunderds of experts, physists & mechanical engineers & eletronic engineers & chemists to run a single unit. 
+![energyConsumption](../pics/share-of-oecd-gross-electricity-production-by-source-1974-2019-provisional.png)
+title: share-of-oecd-gross-electricity-production-by-source-1974-2019
+
+source: IEA
+
+(convert from a graph to a animation?)
+
+Over the years the nuclear energy industries experience different situations in different contries. Like Germany, Swissland have decided to phase out nuclear energy while contries like China, south Korea, England are still involved in building new reactors. 
 
 ## Scene five
-But put it in the easiest way, a nuclear power plant is like nothing but heating coolant medium in one or several closed systems. 
+What are nuclear reactors?
 
 ## Scene six
+No doubt that a nuclear power plant is a sophisticated system. 
+It combines the efforts of hunderds of experts, physists & mechanical engineers & electrical engineers & chemists to run a single unit. 
+
+## Scene seven
+But put it in the easiest way, a nuclear power plant is like nothing but heating coolant medium in one or several closed systems. 
+
+## Scene eight
+
 Take light water reactor for example, the coolant, aka. water, absorbs heat from nuclear fuel and then releases it through driving a big turbine which is connected to the generator producing electricity. 
 Except for the nuclear fuel part, the coal power plant works with the same mechanism. 
 But nuclear power plant is just cleaner, in the sense of CO2 and SO2 emission.
 
-## Scene seven
+## Scene nine
 
 Since 1950s, various types of reactors have been built, deployed or designed.
-If we try to group them by purposes, there are commercial reactors for electricity production, research reactors, propulsion reactors for like space ships and submarines. 
-If we try to group them by the coolant medium, we will see light water, heavy water, sodium, lead-bismuth, molten salt, etc.
-Of course we can also distinguish them with respect to different fuel shape: cylinderic pellet, plate, ball or even in a fluid form flowing around thus without any shape.
 
-## Scene eight
+If we try to group them by purposes, there are commercial reactors for electricity production, research reactors conducting different researches, propulsion reactors offering driving force for like space ships and submarines. 
+
+If we try to group them by the coolant medium, we will see light water, heavy water, gas, sodium, lead-bismuth, molten salt, etc.
+You can find reactors which need moderator like water/graphite and reactors which don't need that.
+
+Of course we can also distinguish them with respect to different fuel shape: cylindric pellet, plate, ball or even in a fluid form flowing around thus without any shape.
+
+## Scene ten
+
+Among all the current operating nuclear reactors the so-called pressurized water reactor takes the biggest share. 

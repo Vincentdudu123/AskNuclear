@@ -47,7 +47,8 @@ Tasklist
 -->
 
 
-# Nuclear energy Episode 1
+# Nuclear energy Episode 1 
+# A very short introduction to nuclear reactors
 
 ## Content
 1. [Scene one](#Scene-one)
@@ -64,13 +65,15 @@ I am a nuclear enginneer.
 
 ## Scene two
 
-When people talk about nuclear energy, there is always a bliss of anxiety going around: non human-readable equations, harmful radiation, atomic bombs, Chernobyl, Fukushima, or even big cooling towers releasing unharmful steam into the atmosphere. 
+Nuclear reaction is a fundenmental physical phenomenon born along with the universe. Nuclear fusion is a reaction in which, two or more light nuclei form into a heavier one releasing energy, like what's happening in the sun. On the other hand, heavy nucleus can split into two or more lighter ones. During this process a certain amount of energy is also released. 
+
+When people talk about nuclear energy, there is always a bliss of anxiety going around: non human-readable equations, harmful radiations, atomic bombs, Chernobyl, Fukushima, or even big cooling towers releasing unharmful steam into the atmosphere. 
 
 ## Scene three
 
 There seems to exist a thick layer of ice between most people and nuclear energy causing some misunderstandings. 
 What is nuclear energy? Is nuclear power plant safe?
-In this series of videos, I am gonna explained some common facts about nuclear power plant, well, in a simple way. 
+In this series of videos, I am gonna explained some facts about nuclear power plant, well, in a simple way. 
 
 ## Scene four
 
@@ -81,10 +84,10 @@ source: IEA
 
 (convert from a graph to a animation?)
 
-Over the years the nuclear energy industries experience different situations in different countries. Like Germany, Swissland have decided to phase out nuclear energy while countries like China, south Korea, England are still involved in building new reactors. 
+Over the years the nuclear energy industries experience different situations in different countries. Like Germany, Swissland have decided to phase out nuclear power plants while countries like China, south Korea, England are still involved in building new reactors. 
 
 ## Scene five
-What are nuclear reactors?
+What is a nuclear power plant?
 
 ## Scene six
 No doubt that a nuclear power plant is a sophisticated system. 
@@ -96,30 +99,49 @@ But put it in the easiest way, a nuclear power plant is like nothing but heating
 ## Scene eight
 
 Take light water reactor for example, the coolant, aka. water, absorbs heat from nuclear fuel and then releases it through driving a big turbine which is connected to the generator producing electricity. 
+
 Except for the nuclear fuel part, the coal power plant works with the same mechanism. 
-But nuclear power plant is just cleaner, in the sense of CO2 and SO2 emission.
+But nuclear power plant is just cleaner, in the sense of CO2 emission. 
 
 ## Scene nine
 
-Since 1950s, various types of reactors have been built, deployed or designed.
+Since 1950s, various types of reactors have been built, deployed, demolished or designed.
 
-Depending on the reaction type, there are fission reactors utilizing the energy by splitting heavy atoms into lighter ones. There are also fusion reactors in which extremes light atoms are 
+Depending on the reaction type, there are fission reactors and fusion reactors.
 
-If we try to group them by purposes, there are commercial reactors for electricity production, research reactors conducting different researches, propulsion reactors offering driving force for like space ships and submarines. 
+If we try to group them by purposes, there are commercial reactors for electricity production, research reactors conducting different researches or producing isotopes for hospitals, propulsion reactors offering driving force for maschines like space ships and submarines. 
 
 If we try to group them by the coolant medium, we will see light water, heavy water, gas, sodium, lead-bismuth, molten salt, etc.
-You can find reactors which need moderator like water/graphite and reactors which don't need that.
+You can find reactors which need moderator like water/graphite and reactors which don't.
 
-Of course we can also distinguish them with respect to different fuel shape: cylindric pellet, plate, ball or even in a fluid form flowing around thus without any shape.
+Of course we can also distinguish them with respect to different fuel shape: cylindric pellet, plate, sphere or even in a fluid form flowing inside the circuit thus without any shape.
 
 ## Scene ten
 
-Let's take a deeper look at one specific reactor type. Among all the current operating nuclear reactors the biggest share is the so-called pressurized water reactor, aka. PWR. Think the PWR as a simple 2-loop power transmission system, or some strange two-chain bicycle. You are playing as the nuclear fuel cycling the pedales. The first chain is driven through the first gear and going forwards. Then the second chain get the toque from the second gear and moves the wheel to rotate. Hmmm, there is something that I missed, the big cooling tower! Well it's more like a cooling system for the second chain since the wheel can only take around one third of the energy from the chain and it needs to be cooled down all the time to remain under working condition. 
+Let's take a deeper look at one specific reactor type. Among all the current operating nuclear reactors the biggest share is the so-called pressurized water reactor, aka. PWR. Imagine the PWR as a simple 2-loop power transmission system, or some strange two-chain bicycle. You are playing as the nuclear fuel cycling the pedales. The first chain is driven by the first gear and going forwards. Then the second chain get the torque from the second gear and moves the wheel to rotate. Hmmm, there is something that I missed, the big cooling tower! Well it's more like a cooling system for the second chain since the wheel can only take around one third of the energy from the chain and the rest needs to be dumped somewhere to remain under working condition. 
 
-There is another type of nuclear reactor running with light water which is called boiling water reactor, aka. BWR. The BWRs are more like a normal bycycle, with only one chain of course. This type of reactor is more like the coal
+Another question would be, what does pressurized mean? Well in the primary circuit of a PWR, or in the first chain, the coolant is heated up to 320 degree celsius and it must be pressurized to remain in liquid form. The primary loop pressure is normally around 160 bar or 160 times the atmospherical pressure, or the pressure at around 1600 m under the sea.
 
-As I mentioned before, the current efficiency of a PWR is around 33%, which means only around 33% of the energy generated in the nuclear fuel is converted to electricity. Where does the other 66% go? You may already have the answer, yes, most of them will be emitted through the cooling tower, in a form of giant white water cloud.
+There is another type of light water reactor which is called Boiling water reactor, aka. BWR. One of the major difference to a PWR is that in a BWR the coolant is directly boiled by nuclear fuel to steam to drive the turbine, or only one chain bicycle. But don't get me wrong, the coolant in a BWR is also pressurized, only with a different magnitude, around 75 bar. 
 
 ## Scene eleven
 
-If you have more questions or suggestions, don't hesitate to leave a comment. And if you would like to learn more knowledge of a cool shining nuclear reactor, don't forget to subscribe. Merci.
+As I mentioned before, the current efficiency of a PWR is around 33%, which means only around one third of the energy generated in the nuclear fuel is converted to electricity. Where does the other 66% go? You may already have the answer, yes, most of them will be emitted through the cooling tower, in forms of giant white water cloud.
+
+![rankine](../pics/Rankine_cycle_with_reheat.jpg)
+
+Rankine cycle with reheat
+
+source: https://en.wikipedia.org/wiki/Rankine_cycle
+
+You might ask, why don't we utilize this 66% energy instead of dumping it into the atmosphere? Well, it is decided by the so-called rankine cycle, which is normally used to predict the performance of a steam-turbine system. Light water reactor, coal power plants are limited to this model. 
+
+In order to increase the efficiency of the rankine cycle. One need to increase the pressure of the steam or the temperature of the steam (overheating) as much as possible. That's why light water reactor needs to be running with high temperature and high pressure.
+
+## Scene twelve
+
+That's all for the first introductory episode of nuclear reactors. It is intended to give a basic idea of how nuclear power plant run and how similar the nuclear power plant is to coal power plant. In the further episodes we will focus on the very unit which makes the nuclear power plants so unique, the nuclear reactor core.
+
+## Scene thirteen
+
+If you have more questions or suggestions, don't hesitate to leave a comment. And if you would like to learn more knowledge of a cool shining nuclear reactor, don't forget to subscribe. Thank you for watching.

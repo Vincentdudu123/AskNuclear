@@ -22,6 +22,19 @@ Momentarily the idea is to film with keynote, audio with garageBand, video editi
 
 The ultimate tool would be then Adobe After Effect for special effects, Premiere for video editing, audio can still be recorded with garageBand.
 
+## Some inspiring thoughts
+
+https://www.youtube.com/watch?v=UC_BCz0pzMw
+
+Economics of NPP, especially comment from Laredo Benjamin
+
+https://vimeo.com/drsdl
+
+Dr. Sdl's Vimeo site
+
+https://www.youtube.com/watch?v=lL6uB1z95gA
+
+Renewable Energy is the scram We all fell for.
 ---
 Contact:
 

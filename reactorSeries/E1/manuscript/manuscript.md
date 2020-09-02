@@ -65,14 +65,14 @@ I am a nuclear enginneer.
 
 ## Scene two
 
-Nuclear reaction is a fundenmental physical phenomenon born along with the universe. Nuclear fusion is a reaction in which, two or more light nuclei form into a heavier one releasing energy, like what's happening in the sun. On the other hand, heavy nucleus can split into two or more lighter ones. During this process a certain amount of energy is also released. 
+Nuclear reaction is a fundenmental physical phenomenon born along with the universe. Heavy nucleus can split into two or more lighter ones. During this process a certain amount of energy is also released. On the other hand, nuclear fusion is a reaction in which, two or more light nuclei form into a heavier one releasing energy, like what's happening in the sun.   
 
 When people talk about nuclear energy, there is always a bliss of anxiety going around: non human-readable equations, harmful radiations, atomic bombs, Chernobyl, Fukushima, or even big cooling towers releasing unharmful steam into the atmosphere. 
 
 ## Scene three
 
 There seems to exist a thick layer of ice between most people and nuclear energy causing some misunderstandings. 
-What is nuclear energy? Is nuclear power plant safe?
+What is nuclear energy? how does a nuclear power plant work?
 In this series of videos, I am gonna explained some facts about nuclear power plant, well, in a simple way. 
 
 ## Scene four

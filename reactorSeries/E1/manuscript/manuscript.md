@@ -26,6 +26,7 @@ $$ 公式 $$
 
 表格：
 左对齐|居中|右对齐
+2|3|5
 :--|:--:|--:
 2|3|5
 10|100|1000
@@ -77,7 +78,7 @@ In this series of videos, I am gonna explained some facts about nuclear power pl
 
 ## Scene four
 
-![energyConsumption](../pics/share-of-oecd-gross-electricity-production-by-source-1974-2019-provisional.png)
+![energyConsumption](../source/pics/share-of-oecd-gross-electricity-production-by-source-1974-2019-provisional.png)
 title: share-of-oecd-gross-electricity-production-by-source-1974-2019
 
 source: IEA
@@ -91,7 +92,7 @@ What is a nuclear power plant?
 
 ## Scene six
 No doubt that a nuclear power plant is a sophisticated system. 
-It combines the efforts of hunderds of experts, physists & mechanical engineers & electrical engineers & chemists to run a single unit. 
+It combines the efforts of hunderds of experts, physists, chemists and engineers from all kinds of areas to run a single unit. 
 
 ## Scene seven
 But put it in the easiest way, a nuclear power plant is like nothing but heating/boiling coolant medium in one or several closed systems. 
@@ -112,6 +113,7 @@ Depending on the reaction type, there are fission reactors and fusion reactors.
 If we try to group them by purposes, there are commercial reactors for electricity production, research reactors conducting different researches or producing isotopes for hospitals, propulsion reactors offering driving force for maschines like space ships and submarines. 
 
 If we try to group them by the coolant medium, we will see light water, heavy water, gas, sodium, lead-bismuth, molten salt, etc.
+
 You can find reactors which need moderator like water/graphite and reactors which don't.
 
 Of course we can also distinguish them with respect to different fuel shape: cylindric pellet, plate, sphere or even in a fluid form flowing inside the circuit thus without any shape.
@@ -128,7 +130,7 @@ There is another type of light water reactor which is called Boiling water react
 
 As I mentioned before, the current efficiency of a PWR is around 33%, which means only around one third of the energy generated in the nuclear fuel is converted to electricity. Where does the other 66% go? You may already have the answer, yes, most of them will be emitted through the cooling tower, in forms of giant white water cloud.
 
-![rankine](../pics/Rankine_cycle_with_reheat.jpg)
+![rankine](../source/pics/Rankine_cycle_with_reheat.jpg)
 
 Rankine cycle with reheat
 
@@ -140,8 +142,10 @@ In order to increase the efficiency of the rankine cycle. One need to increase t
 
 ## Scene twelve
 
-That's all for the first introductory episode of nuclear reactors. It is intended to give a basic idea of how nuclear power plant run and how similar the nuclear power plant is to coal power plant. In the further episodes we will focus on the very unit which makes the nuclear power plants so unique, the nuclear reactor core.
+That's all for the first introductory episode of nuclear reactors. It is intended to give a basic idea of how nuclear power plant run. In the further episodes we will focus on the very unit which makes the nuclear power plants so unique, the nuclear reactor core.
 
 ## Scene thirteen
 
 If you have more questions or suggestions, don't hesitate to leave a comment. And if you would like to learn more knowledge of a cool shining nuclear reactor, don't forget to subscribe. Thank you for watching.
+
+Peace out.

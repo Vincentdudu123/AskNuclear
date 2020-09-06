@@ -15,7 +15,14 @@ Reactor Series is about introducing basic reactor knowledge of nuclear reactor t
 
 #### Current episodes and progress
 ##### E1-Overview of nuclear reactors
-Manuscript being written.
+Manuscript has been written. Keynote being edited.
+
+### DivewithDrSdl
+These listed videos are not only about the nuclear field but also other various topics created by DrSdl. As a first step, the listed videos are categorized with topics, subtopics and difficulty to determine which one(s) are suitable for a pioneer trial on Bilibili. 
+
+Dr. Sdl's Vimeo site
+
+https://www.youtube.com/watch?v=lL6uB1z95gA
 
 ## Tools
 Momentarily the idea is to film with keynote, audio with garageBand, video editing with iMovies.

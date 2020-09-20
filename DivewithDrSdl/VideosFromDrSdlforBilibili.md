@@ -57,6 +57,35 @@ Video number title, field/category, subcategory and difficulty level ( 0-5 0 for
 | 047 Some thoughts about the compactness of SNF (**follow up video of 043**) | Nuclear | pop | 2 | 
 | 048 Fuel assembly design criteria | Nuclear | rock | 2 |
 | 049 Creating cross sections from evaluated nuclear data files | Nuclear | rock | 4 |
-| 050 Safety culture principles| Nuclear | pop | 1 |
+| 050 Safety culture principles<| Nuclear | pop | 1 |
 | 051 Understanding a fuel rod design code| Nuclear | rock | 3 |
 | 052 Your destiny: become a pioneer of new fision devices| Nuclear | pop | 1 |
+| 053 What a safety culture is in practice| Nuclear | pop | 1 |
+| 054 Introduction to Modelica| Nuclear | pop | 1 |
+| 055 Material behavior under irradiation Part 1| Nuclear | rock | 2 |
+| 056 Simulation of molten salt reactor circuits with Modelica| Nuclear | rock | 3 |
+| 057 Material behavior under irradiation Part 2| Nuclear | rock | 2 |
+| 058 Fuel management coding Part1| Nuclear | rock | 3 |
+| 059 Fuel management coding Part2| Nuclear | rock | 2 |
+| 060 Fuel assembly performance| Nuclear | pop | 2 |
+| 061 Fuel rod design code basics| Nuclear | rock | 3 |
+| 062 Coding toolbox| Nuclear | pop | 1 |
+| 063 Material behavior under irradiation Part3| Nuclear | rock | 2 |
+| 01 Concepts of risk, uncertainty and volatility | Risk | pop | 1 |
+| 02 Holistic approach to power plant management: risk is everywhere | Risk |  | 1 |
+| 03 On the three levels of risk | Risk | pop | 1 |
+| 04 Mindmap overview of risk sources in power plant management | Risk | pop | 1 |
+| 05 Risk from the perspective of a private company | Risk | pop | 1 |
+| 06 False positives and false negatives | Risk | pop | 2 |
+| 07 Overview of examples of risk in power plant management | Risk | pop | 1 |
+| 08 The problem of induction and fat tails | Risk | pop | 3 |
+| 00 Welcome to holistic approach to power plant management | Risk | pop | 1 |
+| 00 Welcome to understanding energy generation by fission | Nuclear | pop | 1 |
+| 064 Start working with OpenMOC | Nuclear | rock | 2 |
+| 09 What is a Gaussian distribution | Statistics | rock | 2 |
+| 10 Simulating Brownian motion with Python| Statistics | rock | 2 |
+| 11 What is a Levy distribution | Statistics | rock | 2 |
+| 12 Are financial markets thin or fat tailed | Statistics | rock | 2 |
+| 13 Some basic definitions a stochastic processes | Statistics | rock | 2 |
+| 14 The Central Limit Theorem | Statistics | rock | 2 |
+| 15 Going to the core of management | Statistics | rock | 2 |

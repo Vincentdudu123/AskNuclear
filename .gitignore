@@ -8,3 +8,5 @@
 *.key
 
 *.m4a
+
+.DS_Store
